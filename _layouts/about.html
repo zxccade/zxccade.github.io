@@ -49,7 +49,7 @@ layout: default
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
-            <h2><a href="https://www.chengzixu.top/" style="color: inherit;">latest posts</a></h2>
+            <h2><a href="{{ '/latest_posts/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
             {%- include latest_posts.html %}
           {%- endif %}
 
@@ -71,9 +71,9 @@ layout: default
               </div>
 
           <!-- Teaching -->
-          {% if page.selected_papers -%}
-            <h2><a href="{{ '/Teaching/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
-            {%- include selected_papers.html %}
+          {% if page.teaching -%}
+            <h2><a href="{{ '/teaching/' | relative_url }}" style="color: inherit;">Teaching</a></h2>
+            {%- include teaching.html %}
           {%- endif %}
 
             </div>
