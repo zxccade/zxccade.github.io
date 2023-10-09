@@ -14,6 +14,7 @@ profile:
     <p>Room CS329</p>
     <p>Mile End Road, London E1 4NS</p>
     <p>United Kingdom</p>
+    <p>Email: zixu.cheng@qmul.ac.uk</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
