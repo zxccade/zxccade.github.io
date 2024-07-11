@@ -32,16 +32,15 @@ My current research interests revolve around Deep Learning and Computer Vision, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/CFSR.jpg' alt="ECCV2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SHINE: Saliency-aware HIerarchical NEgative Ranking for Compositional Temporal Grounding](https://arxiv.org/abs/2407.05118v1)
+[SHINE: Saliency-aware HIerarchical NEgative Ranking for Compositional Temporal Grounding](https://arxiv.org/abs/2407.05118v1), **ECCV 2024**
 
 **Zixu Cheng***, Yujiang Pu\*, Shaogang Gong, Parisa Kordjamshidi, Yu Kong (\*corresponding author)
 
 [**ArXiv**](https://arxiv.org/abs/2407.05118v1) **|** [**Code**](https://github.com/zxccade/SHINE) (available soon)
-<!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
-- Coarse-to-Fine Saliency Ranking for Compositional Generalization of Temporal Grounding
-
-
+- Coarse-to-Fine Saliency Ranking for Compositional Temporal Grounding
+</div></div>
 
 
 # 📖 Educations

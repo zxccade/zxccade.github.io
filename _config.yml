@@ -7,9 +7,11 @@
 
 # Site Settings
 title                    : "Zixu Cheng"
-School                   : "School of Electronics Engineering and Computer Science"
-Address                  : "Room CS329 Peter Landin Building, Mile End Road, London E1 4NS"
-# description              : "School of Electronics Engineering and Computer Science" | "Room CS329 Peter Landin Building" | "Mile End Road, London E1 4NS"
+school                   : "School of Electronics Engineering and Computer Science"
+address1                 : "Room CS329 Peter Landin Building"
+address2                 : "Mile End Road"
+address3                 : "London E1 4NS"
+# description              : "School of Electronics Engineering and Computer Science \n Room CS329 Peter Landin Building \n Mile End Road, London E1 4NS"
 repository               : "zxccade/zxccade.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -47,7 +49,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0002-5683-8710"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
