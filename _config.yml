@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zixu Cheng"
-description              : "Queen Mary University of London \n School of Electronics Engineering and Computer Science \n Room CS329 Peter Landin Building \n Mile End Road, London E1 4NS"
+description              : "School of Electronics Engineering and Computer Science" \n "Room CS329 Peter Landin Building" \n "Mile End Road, London E1 4NS"
 repository               : "zxccade/zxccade.github.io"
 google_scholar_stats_use_cdn : true
 

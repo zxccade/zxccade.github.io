@@ -25,7 +25,7 @@ My current research interests revolve around Deep Learning and Computer Vision, 
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted to ECCV'24!
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted to **ECCV'24**!
 
 # 📝 Publications 
 
@@ -36,13 +36,14 @@ My current research interests revolve around Deep Learning and Computer Vision, 
 
 **Zixu Cheng***, Yujiang Pu\*, Shaogang Gong, Parisa Kordjamshidi, Yu Kong (\*corresponding author)
 
-[**ArXiv**](https://arxiv.org/abs/2407.05118v1) **|** [**Paper**](https://arxiv.org/abs/2407.05118v1) **|** [**Code ** (available soon)](https://github.com/zxccade/SHINE) 
+[**ArXiv**](https://arxiv.org/abs/2407.05118v1) **|** [**Code**](https://github.com/zxccade/SHINE) (available soon)
 <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
+
 - Coarse-to-Fine Saliency Ranking for Compositional Generalization of Temporal Grounding
-  </div>
-  </div>
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - now*, PhD, Queen Mary University of London (QMUL), London.
+- *2021.09 - 2022.09*, Master, University College London (UCL), London.
+- *2016.09 - 2020.06*, Undergraduate, Communication University of China (CUC), Beijing.
+
