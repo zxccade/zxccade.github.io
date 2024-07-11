@@ -42,6 +42,8 @@ My current research interests revolve around Deep Learning and Computer Vision, 
 - Coarse-to-Fine Saliency Ranking for Compositional Generalization of Temporal Grounding
 
 
+
+
 # 📖 Educations
 - *2023.09 - now*, PhD, Queen Mary University of London (QMUL), London.
 - *2021.09 - 2022.09*, Master, University College London (UCL), London.
