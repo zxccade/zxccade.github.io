@@ -36,7 +36,7 @@ My current research interests revolve around Deep Learning and Computer Vision, 
 
 **Zixu Cheng***, Yujiang Pu\*, Shaogang Gong, Parisa Kordjamshidi, Yu Kong (\*corresponding author)
 
-[**ArXiv**](https://arxiv.org/abs/2407.05118v1) **|** [**Code**](https://github.com/zxccade/SHINE) (available soon)
+[**ArXiv**](https://arxiv.org/abs/2407.05118v2) **|** [**Code**](https://github.com/zxccade/SHINE) (available soon)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 - Coarse-to-Fine Saliency Ranking for Compositional Temporal Grounding
