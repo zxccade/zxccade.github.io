@@ -36,9 +36,10 @@ My current research interests revolve around Deep Learning and Computer Vision, 
 
 **Zixu Cheng***, Yujiang Pu\*, Shaogang Gong, Parisa Kordjamshidi, Yu Kong (\*corresponding author)
 
-[**ArXiv**](https://arxiv.org/abs/2407.05118v2) **|** [**Code**](https://github.com/zxccade/SHINE) (available soon)
+[**Paper**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02948.pdf)**｜**[**ArXiv**](https://arxiv.org/abs/2407.05118v2)**|** [**Code**](https://github.com/zxccade/SHINE) 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
+- LLM-driven methods for hard negative generation
 - Coarse-to-Fine Saliency Ranking for Compositional Temporal Grounding
 </div></div>
 
