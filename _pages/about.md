@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I am a first-year PhD student in Computer Science at the Computer Vision Group in the School of Electronic Engineering and Computer Science at the Queen Mary University of London, under the supervision of [Prof. Shaogang Gong](http://www.eecs.qmul.ac.uk/~sgg/).
+Currently, I am a third-year PhD student in Computer Science at the Computer Vision Group in the School of Electronic Engineering and Computer Science at the Queen Mary University of London, under the supervision of [Prof. Shaogang Gong](http://www.eecs.qmul.ac.uk/~sgg/).
 
 Before joining QMUL, I earned my Bachelor’s degree at Communication University of China and my Master’s degree at University College London.
 
@@ -25,9 +25,28 @@ My current research interests revolve around Deep Learning and Computer Vision, 
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 Our **INT** is accepted to **IJCAI'25**!
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted to **ECCV'24**!
 
 # 📝 Publications 
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/int.jpg' alt="IJCAI2025" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[INT: Instance-Specific Negative Mining for Task-Generic Promptable Segmentation](https://arxiv.org/abs/2407.05118v1), **IJCAI 2024*5
+
+Jian Hu, **Zixu Cheng**, Shaogang Gong
+
+[**Paper**](https://www.ijcai.org/proceedings/2025/0124.pdf)**｜**[**ArXiv**](https://arxiv.org/abs/2407.05118v1)
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+- Training-free test-time adaptation for task-generic promptable segmentation
+- Progressive negative mining identifies hard-to-distinguish error categories
+  </div></div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/CFSR.jpg' alt="ECCV2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
