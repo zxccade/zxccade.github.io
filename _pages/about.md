@@ -42,6 +42,7 @@ Jian Hu, **Zixu Cheng**, Chenyang Si, Wei Li, Shaogang Gong
 
 - Long-video understanding by visual prompt learning
 - Training-free mosaicing binary coding with pseudo-temporal grounding for long video understanding
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/int.jpg' alt="IJCAI2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,6 +56,7 @@ Jian Hu, **Zixu Cheng**, Shaogang Gong
 
 - Training-free test-time adaptation for task-generic promptable segmentation
 - Progressive negative mining identifies hard-to-distinguish error categories
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/CFSR.jpg' alt="ECCV2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
