@@ -25,15 +25,16 @@ My current research interests revolve around Deep Learning and Computer Vision, 
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted to **NeurIPS'25**!
 - *2025.04*: &nbsp;🎉🎉 Our **INT** is accepted to **IJCAI'25**!
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted to **ECCV'24**!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/urpa.jpg' alt="Arxiv2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/urpa.png' alt="NeurIPS2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Uncertainty-quantified Rollout Policy Adaptation for Unlabelled Cross-domain Video Temporal Grounding](https://arxiv.org/abs/2508.06317), **Arxiv 2025**
+[Uncertainty-quantified Rollout Policy Adaptation for Unlabelled Cross-domain Video Temporal Grounding](https://arxiv.org/abs/2508.06317), **NeurIPS 2025**
 
 Jian Hu, **Zixu Cheng**, Shaogang Gong, Isabel Guan, Jianye Hao, Jun Wang, Kun Shao
 
