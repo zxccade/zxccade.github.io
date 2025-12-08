@@ -39,28 +39,27 @@ Jian Hu, **Zixu Cheng**, Chenyang Si, Wei Li, Shaogang Gong
 
 [**Paper**](https://www.ijcai.org/proceedings/2025/0124.pdf)**|**[**ArXiv**](https://arxiv.org/abs/2407.05118v1) **|**[**Code**](https://github.com/lwpyh/CoS_codes)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
 - Long-video understanding by visual prompt learning
 - Training-free mosaicing binary coding with pseudo-temporal grounding for long video understanding
-</div></div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/int.jpg' alt="IJCAI2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[INT: Instance-Specific Negative Mining for Task-Generic Promptable Segmentation](https://arxiv.org/abs/2407.05118v1), **IJCAI 2024*5
+[INT: Instance-Specific Negative Mining for Task-Generic Promptable Segmentation](https://arxiv.org/abs/2407.05118v1), **IJCAI 2025**
 
 Jian Hu, **Zixu Cheng**, Shaogang Gong
 
 [**Paper**](https://www.ijcai.org/proceedings/2025/0124.pdf)**｜**[**ArXiv**](https://arxiv.org/abs/2407.05118v1)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
 - Training-free test-time adaptation for task-generic promptable segmentation
 - Progressive negative mining identifies hard-to-distinguish error categories
-</div></div>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/CFSR.jpg' alt="ECCV2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 [SHINE: Saliency-aware HIerarchical NEgative Ranking for Compositional Temporal Grounding](https://arxiv.org/abs/2407.05118v1), **ECCV 2024**
 
@@ -68,10 +67,10 @@ Jian Hu, **Zixu Cheng**, Shaogang Gong
 
 [**Paper**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02948.pdf)**｜**[**ArXiv**](https://arxiv.org/abs/2407.05118v2)**|** [**Code**](https://github.com/zxccade/SHINE) 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
 - LLM-driven methods for hard negative generation
 - Coarse-to-Fine Saliency Ranking for Compositional Temporal Grounding
-</div></div>
+</div>
+</div>
 
 
 # 📖 Educations
