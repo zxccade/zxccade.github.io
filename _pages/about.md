@@ -30,6 +30,34 @@ My current research interests revolve around Deep Learning and Computer Vision, 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/urpa.jpg' alt="Arxiv2025" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Uncertainty-quantified Rollout Policy Adaptation for Unlabelled Cross-domain Video Temporal Grounding](https://arxiv.org/abs/2508.06317), **Arxiv 2025**
+
+Jian Hu, **Zixu Cheng**, Shaogang Gong, Isabel Guan, Jianye Hao, Jun Wang, Kun Shao
+
+[**Paper**](https://openreview.net/forum?id=RfNiN2rENM)**｜**[**ArXiv**](https://arxiv.org/abs/2508.06317) **|** [**Code**](https://github.com/lwpyh/URPO) **|** [**Webpage**](https://lwpyh.github.io/URPA/) 
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- Unlabelled cross-domain temporal grounding
+- Uncertainty-quantified Rollout Policy Adaptation with uncertainty-weighted rewards
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/vstar.png' alt="Arxiv2025" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning](https://arxiv.org/abs/2503.11495), **Arxiv 2025**
+
+**Zixu Cheng**, Jian Hu, Ziquan Liu, Chenyang Si, Wei Li, Shaogang Gong
+
+[**ArXiv**](https://arxiv.org/abs/2503.11495) **|** [**Code**](https://github.com/V-STaR-Bench/V-STaR) **|** [**Webpage**](https://V-STaR-Bench.github.io/) **|** [**HF Dataset**](https://huggingface.co/datasets/V-STaR-Bench/V-STaR) 
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning
+- Highlight the weakness of comtemporary Video-LLMs
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/cos.jpg' alt="Arxiv2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -37,7 +65,7 @@ My current research interests revolve around Deep Learning and Computer Vision, 
 
 Jian Hu, **Zixu Cheng**, Chenyang Si, Wei Li, Shaogang Gong
 
-[**Paper**](https://www.ijcai.org/proceedings/2025/0124.pdf)**|**[**ArXiv**](https://arxiv.org/abs/2407.05118v1) **|**[**Code**](https://github.com/lwpyh/CoS_codes)
+[**ArXiv**](https://arxiv.org/abs/2407.05118v1) **|**[**Code**](https://github.com/lwpyh/CoS_codes)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - Long-video understanding by visual prompt learning
 - Training-free mosaicing binary coding with pseudo-temporal grounding for long video understanding
