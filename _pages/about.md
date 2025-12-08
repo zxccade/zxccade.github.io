@@ -30,8 +30,6 @@ My current research interests revolve around Deep Learning and Computer Vision, 
 
 # 📝 Publications 
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/cos.jpg' alt="Arxiv2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
