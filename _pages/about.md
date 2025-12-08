@@ -59,6 +59,7 @@ Jian Hu, **Zixu Cheng**, Shaogang Gong
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/CFSR.jpg' alt="ECCV2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 [SHINE: Saliency-aware HIerarchical NEgative Ranking for Compositional Temporal Grounding](https://arxiv.org/abs/2407.05118v1), **ECCV 2024**
 
 **Zixu Cheng***, Yujiang Pu\*, Shaogang Gong, Parisa Kordjamshidi, Yu Kong (\*equal contribution)
