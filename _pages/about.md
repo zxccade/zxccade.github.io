@@ -32,6 +32,19 @@ My current research interests revolve around Deep Learning and Computer Vision, 
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/cos.jpg' alt="Arxiv2025" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CoS: Chain-of-Shot Prompting for Long Video Understanding](https://arxiv.org/abs/2502.06428), **Arxiv 2025**
+
+Jian Hu, **Zixu Cheng**, Chenyang Si, Wei Li, Shaogang Gong
+
+[**Paper**](https://www.ijcai.org/proceedings/2025/0124.pdf)**|**[**ArXiv**](https://arxiv.org/abs/2407.05118v1) **|**[**Code**](https://github.com/lwpyh/CoS_codes)
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+- Long-video understanding by visual prompt learning
+- Training-free mosaicing binary coding with pseudo-temporal grounding for long video understanding
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/int.jpg' alt="IJCAI2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -44,9 +57,6 @@ Jian Hu, **Zixu Cheng**, Shaogang Gong
 
 - Training-free test-time adaptation for task-generic promptable segmentation
 - Progressive negative mining identifies hard-to-distinguish error categories
-  </div></div>
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/CFSR.jpg' alt="ECCV2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
